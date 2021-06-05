@@ -1,0 +1,7 @@
+= Home
+:doctype: article
+
+Welcome to my books website!
+
+. {sitepath}/one[Book number one]: Book #1
+. {sitepath}/two[Book number two]: Book #2

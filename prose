@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+docker container run --rm -it --volume ${PWD}:/site phanikandula/prose:0.1.1 "$@"

@@ -1,0 +1,64 @@
+= Basic Book
+:doctype: book
+:toc: left
+:multipage-level: 2
+:sectnums:
+
+This tests a basic book with pages split at the section level.
+
+
+[[chapter-1]]
+== Chapter 1
+
+Chapter 1 text
+
+[[section-1-1]]
+=== Section 1-1
+
+Section 1-1 text
+
+[[section-1-2]]
+=== Section 1-2
+
+Section 1-2 text
+
+[[chapter-2]]
+== Chapter 2
+
+[[section-2-1]]
+=== Section 2-1
+
+Section 2-1 text
+
+[[section-2-2]]
+=== Section 2-2
+
+Section 2-2 text
+
+[[chapter-3]]
+== Chapter 3
+
+Chapter 3 text
+
+[[section-3-1]]
+=== Section 3-1
+
+Section 3-1 text
+
+[[section-3-2]]
+=== Section 3-2
+
+Section 3-2 text
+
+[[chapter-4]]
+== Chapter 4
+
+[[section-4-1]]
+=== Section 4-1
+
+Section 4-1 text
+
+[[section-4-2]]
+=== Section 4-2
+
+Section 4-2 text

@@ -1,0 +1,7 @@
+PROD_HOST="https://www.example.com"
+PROD_OUTPUT_DIR="output/prod"
+
+DEV_HOST="http://localhost:8000"
+DEV_OUTPUT_DIR="output/dev"
+
+THEME_NAME=ubuntu

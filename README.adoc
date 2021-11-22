@@ -1,0 +1,15 @@
+= Steps
+
+== Writing
+
+
+``` 
+    make dev
+```
+
+== Publishing
+
+From main branch:
+```
+    make
+```
